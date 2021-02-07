@@ -1,5 +1,5 @@
 // Envs
-let dev = true;
+let dev = false;
 let devserver = "http://192.168.1.152:8082/";
 let deploy = "http://35.224.42.25:8083/";
 
